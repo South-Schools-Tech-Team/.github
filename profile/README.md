@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 Welcome to the South Schools Tech Team DevOp's GitHub team/organization!
+
+### Main Repos:
+- ...
+- ...
 
 <!--
 
