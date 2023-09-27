@@ -1,14 +1,14 @@
 ## Hi there 👋 Welcome to the South Schools Tech Team DevOp's GitHub team/organization!
 
 ### Main Repos:
-- [StaffDataSync] (https://github.com/South-Schools-Tech-Team/StaffDataSync)
-- [StudentDataSync] (https://github.com/South-Schools-Tech-Team/StudentDataSync)
-- [Iiq-Data_Sync] (https://github.com/South-Schools-Tech-Team/Iiq-Data_Sync)
-- [paycom-sftp-automation] (https://github.com/South-Schools-Tech-Team/paycom-sftp-automation)
-- [ansible-automation] (https://github.com/South-Schools-Tech-Team/ansible-automation)
-- [homeschool_hub_db_loader] (https://github.com/South-Schools-Tech-Team/homeschool_hub_db_loader)
-- [pathways_oneroster_converter] (https://github.com/South-Schools-Tech-Team/pathways_oneroster_converter)
-- [STT-DevOps-Super-Repo] (https://github.com/South-Schools-Tech-Team/STT-DevOps-Super-Repo)
+- [StaffDataSync](https://github.com/South-Schools-Tech-Team/StaffDataSync)
+- [StudentDataSync](https://github.com/South-Schools-Tech-Team/StudentDataSync)
+- [Iiq-Data_Sync](https://github.com/South-Schools-Tech-Team/Iiq-Data_Sync)
+- [paycom-sftp-automation](https://github.com/South-Schools-Tech-Team/paycom-sftp-automation)
+- [ansible-automation](https://github.com/South-Schools-Tech-Team/ansible-automation)
+- [homeschool_hub_db_loader](https://github.com/South-Schools-Tech-Team/homeschool_hub_db_loader)
+- [pathways_oneroster_converter](https://github.com/South-Schools-Tech-Team/pathways_oneroster_converter)
+- [STT-DevOps-Super-Repo](https://github.com/South-Schools-Tech-Team/STT-DevOps-Super-Repo)
 
 ### STT DevOps Cron/Cronitor
 - MORE INFO SOON!
